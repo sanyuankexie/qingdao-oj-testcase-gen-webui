@@ -1,5 +1,7 @@
 # Qingdao-OJ 测试用例生成器
 
+## 链接
+[https://ojtools.kexie.space/](https://ojtools.kexie.space/)
 ## 界面
 ![img.png](assets/img.png)
 
